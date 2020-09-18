@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Connect 4 Game
 
+'yarn start' runs the game on http://localhost:3000
+
 ### Project setup
 
 - Prettier
